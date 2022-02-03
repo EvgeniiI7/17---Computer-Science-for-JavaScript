@@ -1,1 +1,1 @@
-# 17---Computer-Science-for-JavaScript
+# 17-Computer-Science-for-JavaScript
