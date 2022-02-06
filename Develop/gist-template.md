@@ -494,5 +494,5 @@ alert(str.match(/(?<=\$)\d+/)); // 15,the sole number is skipped
 ## Author
 Evgenii Ivanov. corrently lerning how to code AT Boot Camp UofT
 
-Evgenii's Github profile link is: 
-https://github.com/EvgeniiI7
+[Evgenii's Github profile link is]
+(https://github.com/EvgeniiI7)
